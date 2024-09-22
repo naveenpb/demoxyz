@@ -1,2 +1,2 @@
 # demoxyz
-begineer demo
+begineer demo .
